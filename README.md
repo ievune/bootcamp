@@ -1,1 +1,3 @@
-float: right !important
+flout: left;
+
+clear: both;
