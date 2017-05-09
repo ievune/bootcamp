@@ -1,2 +1,1 @@
-float: right !important;
-background-color: red;
+float: right !important
