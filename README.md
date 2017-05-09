@@ -1,1 +1,1 @@
-float: right !important
+changed by Jevgenijus
